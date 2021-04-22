@@ -71,5 +71,6 @@ public class Controller {
 
     public void changeChatMemberDesign(){
 //        scrollPane.setVvalue(me.isSelected() ? Pos.BASELINE_RIGHT : Pos.BASELINE_LEFT
+        System.out.println("changeChatMemberDesign");
     }
 }
